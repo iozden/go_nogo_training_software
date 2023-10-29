@@ -1,0 +1,5 @@
+sensor1	KEYWORD1
+activate	KEYWORD2
+deactivate	KEYWORD2
+go_to_intfunc	KEYWORD2
+sensorfunction	KEYWORD2

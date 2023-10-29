@@ -1,0 +1,4 @@
+sensor5	KEYWORD1
+start	KEYWORD2
+stop	KEYWORD2
+go_to_intfunc	KEYWORD2

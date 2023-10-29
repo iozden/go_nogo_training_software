@@ -1,0 +1,4 @@
+detect_event	KEYWORD1
+start	KEYWORD2
+stop	KEYWORD2
+detect	KEYWORD2
